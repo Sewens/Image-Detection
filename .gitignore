@@ -1,5 +1,6 @@
-segment-anything/
-models/sam_vit_*
+segment-anything*/
+checkpoints/sam*
+
 # compilation and distribution
 __pycache__
 _ext

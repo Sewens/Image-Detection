@@ -19,7 +19,7 @@ wheels/
 *.ts
 model_ts*.txt
 
-# onnx models
+# onnx checkpoints
 *.onnx
 
 # ipython/jupyter notebooks
